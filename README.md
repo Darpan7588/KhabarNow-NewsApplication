@@ -148,7 +148,7 @@ npm run eject
 Some Snippets of the Website:
 
 <img width="1919" height="1020" alt="Screenshot 2025-11-27 171512" src="https://github.com/user-attachments/assets/42e14a53-9f73-40cc-b19a-a34e5a6d3059" />
-
+Light-themed 
 
 <img width="1919" height="1017" alt="Screenshot 2025-11-27 171456" src="https://github.com/user-attachments/assets/8e63cd0e-efb6-412b-8f16-5045eb51554c" />
-
+Dark-themed
