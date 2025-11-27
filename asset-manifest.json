@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KhabarNow-NewsApplication/static/css/main.f855e6bc.css",
+    "main.js": "/KhabarNow-NewsApplication/static/js/main.692056a7.js",
+    "static/js/453.91e35c1c.chunk.js": "/KhabarNow-NewsApplication/static/js/453.91e35c1c.chunk.js",
+    "static/media/loading.gif": "/KhabarNow-NewsApplication/static/media/loading.991cf78da826612b9c50.gif",
+    "index.html": "/KhabarNow-NewsApplication/index.html",
+    "main.f855e6bc.css.map": "/KhabarNow-NewsApplication/static/css/main.f855e6bc.css.map",
+    "main.692056a7.js.map": "/KhabarNow-NewsApplication/static/js/main.692056a7.js.map",
+    "453.91e35c1c.chunk.js.map": "/KhabarNow-NewsApplication/static/js/453.91e35c1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.692056a7.js"
+  ]
+}
